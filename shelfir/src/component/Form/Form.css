@@ -1,0 +1,25 @@
+.form-container {
+  height: 300px;
+  width: 250px;
+  background-color: #3ad886;
+  padding: 10px;
+  text-align: left;
+  /* position: fixed; */
+  /* align-items: baseline; */
+}
+.input-box {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+}
+.btn-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+.formBtns {
+  background-color: #ed6b5a;
+  border: 2px solid #ed6b5a;
+  border-radius: 5px;
+}

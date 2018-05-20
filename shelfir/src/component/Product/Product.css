@@ -1,0 +1,22 @@
+/* .products-box {
+} */
+
+.pdct-info {
+  width: 50%;
+  background-color: #d34735;
+  border-radius: 10px;
+  box-sizing: border-box;
+  padding-left: 10px;
+  margin: 50px;
+}
+img {
+  width: 50%;
+  height: 90%;
+  display: flex;
+  /* justify-content: center; */
+  /* margin: 20px; */
+  /* align-items: flex-start; */
+}
+.productBtn {
+  background-color: #3ad886;
+}
